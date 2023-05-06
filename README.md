@@ -1,2 +1,2 @@
-# be-my-eyes-gpt4-mini
-A simple implementation of Be My Eyes GPT-4
+# Be My Eyes GPT-4 Mini
+Under progress..
